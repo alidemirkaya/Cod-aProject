@@ -1,0 +1,9 @@
+C:\Users\By Ali Demirkaya\Source\Repos\6-1-N-Soruları-v1.0\6-1-N-Soruları-v1.0\bin\Debug\6-1-N-Soruları-v1.0.exe.config
+C:\Users\By Ali Demirkaya\Source\Repos\6-1-N-Soruları-v1.0\6-1-N-Soruları-v1.0\bin\Debug\6-1-N-Soruları-v1.0.exe
+C:\Users\By Ali Demirkaya\Source\Repos\6-1-N-Soruları-v1.0\6-1-N-Soruları-v1.0\bin\Debug\6-1-N-Soruları-v1.0.pdb
+C:\Users\By Ali Demirkaya\Source\Repos\6-1-N-Soruları-v1.0\6-1-N-Soruları-v1.0\obj\Debug\_6_1_N_Soruları_v1._0.Form1.resources
+C:\Users\By Ali Demirkaya\Source\Repos\6-1-N-Soruları-v1.0\6-1-N-Soruları-v1.0\obj\Debug\_6_1_N_Soruları_v1._0.Properties.Resources.resources
+C:\Users\By Ali Demirkaya\Source\Repos\6-1-N-Soruları-v1.0\6-1-N-Soruları-v1.0\obj\Debug\6-1-N-Soruları-v1.0.csproj.GenerateResource.cache
+C:\Users\By Ali Demirkaya\Source\Repos\6-1-N-Soruları-v1.0\6-1-N-Soruları-v1.0\obj\Debug\6-1-N-Soruları-v1.0.csproj.CoreCompileInputs.cache
+C:\Users\By Ali Demirkaya\Source\Repos\6-1-N-Soruları-v1.0\6-1-N-Soruları-v1.0\obj\Debug\6-1-N-Soruları-v1.0.exe
+C:\Users\By Ali Demirkaya\Source\Repos\6-1-N-Soruları-v1.0\6-1-N-Soruları-v1.0\obj\Debug\6-1-N-Soruları-v1.0.pdb
