@@ -1,0 +1,10 @@
+C:\Users\By Ali Demirkaya\Source\Repos\9-1-N-Soruları-v4.0\9-1-N-Soruları-v4.0\bin\Debug\9-1-N-Soruları-v4.0.exe.config
+C:\Users\By Ali Demirkaya\Source\Repos\9-1-N-Soruları-v4.0\9-1-N-Soruları-v4.0\bin\Debug\9-1-N-Soruları-v4.0.exe
+C:\Users\By Ali Demirkaya\Source\Repos\9-1-N-Soruları-v4.0\9-1-N-Soruları-v4.0\bin\Debug\9-1-N-Soruları-v4.0.pdb
+C:\Users\By Ali Demirkaya\Source\Repos\9-1-N-Soruları-v4.0\9-1-N-Soruları-v4.0\obj\Debug\9-1-N-Soruları-v4.0.csprojResolveAssemblyReference.cache
+C:\Users\By Ali Demirkaya\Source\Repos\9-1-N-Soruları-v4.0\9-1-N-Soruları-v4.0\obj\Debug\_9_1_N_Soruları_v4._0.Form1.resources
+C:\Users\By Ali Demirkaya\Source\Repos\9-1-N-Soruları-v4.0\9-1-N-Soruları-v4.0\obj\Debug\_9_1_N_Soruları_v4._0.Properties.Resources.resources
+C:\Users\By Ali Demirkaya\Source\Repos\9-1-N-Soruları-v4.0\9-1-N-Soruları-v4.0\obj\Debug\9-1-N-Soruları-v4.0.csproj.GenerateResource.cache
+C:\Users\By Ali Demirkaya\Source\Repos\9-1-N-Soruları-v4.0\9-1-N-Soruları-v4.0\obj\Debug\9-1-N-Soruları-v4.0.csproj.CoreCompileInputs.cache
+C:\Users\By Ali Demirkaya\Source\Repos\9-1-N-Soruları-v4.0\9-1-N-Soruları-v4.0\obj\Debug\9-1-N-Soruları-v4.0.exe
+C:\Users\By Ali Demirkaya\Source\Repos\9-1-N-Soruları-v4.0\9-1-N-Soruları-v4.0\obj\Debug\9-1-N-Soruları-v4.0.pdb
