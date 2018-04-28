@@ -1,0 +1,10 @@
+C:\Users\By Ali Demirkaya\Source\Repos\5-BasamakDegeriBul-v2.0\5-BasamakDegeriBul-v2.0\bin\Debug\5-BasamakDegeriBul-v2.0.exe.config
+C:\Users\By Ali Demirkaya\Source\Repos\5-BasamakDegeriBul-v2.0\5-BasamakDegeriBul-v2.0\bin\Debug\5-BasamakDegeriBul-v2.0.exe
+C:\Users\By Ali Demirkaya\Source\Repos\5-BasamakDegeriBul-v2.0\5-BasamakDegeriBul-v2.0\bin\Debug\5-BasamakDegeriBul-v2.0.pdb
+C:\Users\By Ali Demirkaya\Source\Repos\5-BasamakDegeriBul-v2.0\5-BasamakDegeriBul-v2.0\obj\Debug\5-BasamakDegeriBul-v2.0.csprojResolveAssemblyReference.cache
+C:\Users\By Ali Demirkaya\Source\Repos\5-BasamakDegeriBul-v2.0\5-BasamakDegeriBul-v2.0\obj\Debug\_5_BasamakDegeriBul_v2._0.Form1.resources
+C:\Users\By Ali Demirkaya\Source\Repos\5-BasamakDegeriBul-v2.0\5-BasamakDegeriBul-v2.0\obj\Debug\_5_BasamakDegeriBul_v2._0.Properties.Resources.resources
+C:\Users\By Ali Demirkaya\Source\Repos\5-BasamakDegeriBul-v2.0\5-BasamakDegeriBul-v2.0\obj\Debug\5-BasamakDegeriBul-v2.0.csproj.GenerateResource.cache
+C:\Users\By Ali Demirkaya\Source\Repos\5-BasamakDegeriBul-v2.0\5-BasamakDegeriBul-v2.0\obj\Debug\5-BasamakDegeriBul-v2.0.csproj.CoreCompileInputs.cache
+C:\Users\By Ali Demirkaya\Source\Repos\5-BasamakDegeriBul-v2.0\5-BasamakDegeriBul-v2.0\obj\Debug\5-BasamakDegeriBul-v2.0.exe
+C:\Users\By Ali Demirkaya\Source\Repos\5-BasamakDegeriBul-v2.0\5-BasamakDegeriBul-v2.0\obj\Debug\5-BasamakDegeriBul-v2.0.pdb
