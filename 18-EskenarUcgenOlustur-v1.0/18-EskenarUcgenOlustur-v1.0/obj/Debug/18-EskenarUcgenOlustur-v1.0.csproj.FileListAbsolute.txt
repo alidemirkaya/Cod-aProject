@@ -1,0 +1,6 @@
+C:\Users\By Ali Demirkaya\Source\Repos\18-EskenarUcgenOlustur-v1.0\18-EskenarUcgenOlustur-v1.0\bin\Debug\18-EskenarUcgenOlustur-v1.0.exe.config
+C:\Users\By Ali Demirkaya\Source\Repos\18-EskenarUcgenOlustur-v1.0\18-EskenarUcgenOlustur-v1.0\bin\Debug\18-EskenarUcgenOlustur-v1.0.exe
+C:\Users\By Ali Demirkaya\Source\Repos\18-EskenarUcgenOlustur-v1.0\18-EskenarUcgenOlustur-v1.0\bin\Debug\18-EskenarUcgenOlustur-v1.0.pdb
+C:\Users\By Ali Demirkaya\Source\Repos\18-EskenarUcgenOlustur-v1.0\18-EskenarUcgenOlustur-v1.0\obj\Debug\18-EskenarUcgenOlustur-v1.0.csproj.CoreCompileInputs.cache
+C:\Users\By Ali Demirkaya\Source\Repos\18-EskenarUcgenOlustur-v1.0\18-EskenarUcgenOlustur-v1.0\obj\Debug\18-EskenarUcgenOlustur-v1.0.exe
+C:\Users\By Ali Demirkaya\Source\Repos\18-EskenarUcgenOlustur-v1.0\18-EskenarUcgenOlustur-v1.0\obj\Debug\18-EskenarUcgenOlustur-v1.0.pdb
