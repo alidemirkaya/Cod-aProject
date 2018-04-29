@@ -1,0 +1,6 @@
+C:\Users\By Ali Demirkaya\Source\Repos\20-VizeFinalSoruları-v2.0\20-VizeFinalSoruları-v2.0\obj\Debug\20-VizeFinalSoruları-v2.0.csproj.CoreCompileInputs.cache
+C:\Users\By Ali Demirkaya\Source\Repos\20-VizeFinalSoruları-v2.0\20-VizeFinalSoruları-v2.0\bin\Debug\20-VizeFinalSoruları-v2.0.exe.config
+C:\Users\By Ali Demirkaya\Source\Repos\20-VizeFinalSoruları-v2.0\20-VizeFinalSoruları-v2.0\bin\Debug\20-VizeFinalSoruları-v2.0.exe
+C:\Users\By Ali Demirkaya\Source\Repos\20-VizeFinalSoruları-v2.0\20-VizeFinalSoruları-v2.0\bin\Debug\20-VizeFinalSoruları-v2.0.pdb
+C:\Users\By Ali Demirkaya\Source\Repos\20-VizeFinalSoruları-v2.0\20-VizeFinalSoruları-v2.0\obj\Debug\20-VizeFinalSoruları-v2.0.exe
+C:\Users\By Ali Demirkaya\Source\Repos\20-VizeFinalSoruları-v2.0\20-VizeFinalSoruları-v2.0\obj\Debug\20-VizeFinalSoruları-v2.0.pdb
