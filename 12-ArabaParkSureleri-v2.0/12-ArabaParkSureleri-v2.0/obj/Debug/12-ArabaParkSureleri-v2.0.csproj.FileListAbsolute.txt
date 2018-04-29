@@ -1,0 +1,10 @@
+C:\Users\By Ali Demirkaya\Source\Repos\12-ArabaParkSureleri-v2.0\12-ArabaParkSureleri-v2.0\bin\Debug\12-ArabaParkSureleri-v2.0.exe.config
+C:\Users\By Ali Demirkaya\Source\Repos\12-ArabaParkSureleri-v2.0\12-ArabaParkSureleri-v2.0\bin\Debug\12-ArabaParkSureleri-v2.0.exe
+C:\Users\By Ali Demirkaya\Source\Repos\12-ArabaParkSureleri-v2.0\12-ArabaParkSureleri-v2.0\bin\Debug\12-ArabaParkSureleri-v2.0.pdb
+C:\Users\By Ali Demirkaya\Source\Repos\12-ArabaParkSureleri-v2.0\12-ArabaParkSureleri-v2.0\obj\Debug\12-ArabaParkSureleri-v2.0.csprojResolveAssemblyReference.cache
+C:\Users\By Ali Demirkaya\Source\Repos\12-ArabaParkSureleri-v2.0\12-ArabaParkSureleri-v2.0\obj\Debug\_12_ArabaParkSureleri_v2._0.Form1.resources
+C:\Users\By Ali Demirkaya\Source\Repos\12-ArabaParkSureleri-v2.0\12-ArabaParkSureleri-v2.0\obj\Debug\_12_ArabaParkSureleri_v2._0.Properties.Resources.resources
+C:\Users\By Ali Demirkaya\Source\Repos\12-ArabaParkSureleri-v2.0\12-ArabaParkSureleri-v2.0\obj\Debug\12-ArabaParkSureleri-v2.0.csproj.GenerateResource.cache
+C:\Users\By Ali Demirkaya\Source\Repos\12-ArabaParkSureleri-v2.0\12-ArabaParkSureleri-v2.0\obj\Debug\12-ArabaParkSureleri-v2.0.csproj.CoreCompileInputs.cache
+C:\Users\By Ali Demirkaya\Source\Repos\12-ArabaParkSureleri-v2.0\12-ArabaParkSureleri-v2.0\obj\Debug\12-ArabaParkSureleri-v2.0.exe
+C:\Users\By Ali Demirkaya\Source\Repos\12-ArabaParkSureleri-v2.0\12-ArabaParkSureleri-v2.0\obj\Debug\12-ArabaParkSureleri-v2.0.pdb
